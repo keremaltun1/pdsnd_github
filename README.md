@@ -1,5 +1,5 @@
 Date created
-Data was created on 25 June 2020
+Data was created on 29 June 2020
 
 Project Title
 Explore US Bikeshare Data
@@ -8,7 +8,7 @@ Description
 In this project, I analyzed the data of the bicycle sharing system of 3 major cities of the United States(Washington, Chicago, New York) using python language. In addition, i presented the options about city,month,day etc.to users that they would like see. Finally, before the script ended, I showed users the option to serve more raw data.
 
 Files used
-new_york_city.csv chicago.csv washington.csv readme.txt bikeshare2.py README.md
+new_york_city.csv chicago.csv washington.csv readme.txt bikeshare.py README.md
 
 Credits
 Sources :
